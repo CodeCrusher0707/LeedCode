@@ -7,15 +7,19 @@ class Solution {
         
         Arrays.sort(nums);
         
-        int start = nums[0];
-        int end = nums[n - 1];
-        int index = 0;
+       // int start = nums[0];
+        //int end = nums[n - 1];
+        //int index = 0;
 
-        for (int i = start; i <= end; i++) {
-            if (index < nums.length && nums[index] == i) {
-                index++;
-            } else {
-                result.add(i);
+        int i=0;
+        int x=nums[0];
+        while(i<n-1){
+            x=x+1;
+            if(x==nums[i+1]){
+                i++;
+            }
+            else{
+                result.add(x);
             }
         }
         
