@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/CodeCrusher0707/LeedCode/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CodeCrusher0707/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/CodeCrusher0707/LeedCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/CodeCrusher0707/LeedCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
