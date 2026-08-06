@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CodeCrusher0707/LeedCode/tree/master/0238-product-of-array-except-self) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CodeCrusher0707/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CodeCrusher0707/LeedCode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CodeCrusher0707/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CodeCrusher0707/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
