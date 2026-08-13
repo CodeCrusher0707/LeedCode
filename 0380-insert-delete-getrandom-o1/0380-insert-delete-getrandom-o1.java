@@ -22,14 +22,10 @@ class RandomizedSet {
         if (!map.containsKey(val)) {
             return false;
         }
-        // Get the index of the element to remove
         int idx = map.get(val);
-        // Get the last element
         int lastVal = list.get(list.size() - 1);
-        // Swap the element to remove with the last element
         list.set(idx, lastVal);
         map.put(lastVal, idx);
-        // Remove the last element
         list.remove(list.size() - 1);
         map.remove(val);
         return true;
