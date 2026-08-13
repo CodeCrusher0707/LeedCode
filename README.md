@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/CodeCrusher0707/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeCrusher0707/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/CodeCrusher0707/LeedCode/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CodeCrusher0707/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/CodeCrusher0707/LeedCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/CodeCrusher0707/LeedCode/tree/master/0073-set-matrix-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/CodeCrusher0707/LeedCode/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeCrusher0707/LeedCode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
