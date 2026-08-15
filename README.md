@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeCrusher0707/LeedCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/CodeCrusher0707/LeedCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeCrusher0707/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/CodeCrusher0707/LeedCode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/CodeCrusher0707/LeedCode/tree/master/0073-set-matrix-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CodeCrusher0707/LeedCode/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CodeCrusher0707/LeedCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeCrusher0707/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeCrusher0707/LeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/CodeCrusher0707/LeedCode/tree/master/0031-next-permutation) |
