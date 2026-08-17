@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeCrusher0707/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/CodeCrusher0707/LeedCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/CodeCrusher0707/LeedCode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CodeCrusher0707/LeedCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/CodeCrusher0707/LeedCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/CodeCrusher0707/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/CodeCrusher0707/LeedCode/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CodeCrusher0707/LeedCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/CodeCrusher0707/LeedCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
