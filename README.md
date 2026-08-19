@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/CodeCrusher0707/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeCrusher0707/LeedCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/CodeCrusher0707/LeedCode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/CodeCrusher0707/LeedCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/CodeCrusher0707/LeedCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeCrusher0707/LeedCode/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/CodeCrusher0707/LeedCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/CodeCrusher0707/LeedCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/CodeCrusher0707/LeedCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/CodeCrusher0707/LeedCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeCrusher0707/LeedCode/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CodeCrusher0707/LeedCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/CodeCrusher0707/LeedCode/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/CodeCrusher0707/LeedCode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -95,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/CodeCrusher0707/LeedCode/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeCrusher0707/LeedCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeCrusher0707/LeedCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeCrusher0707/LeedCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
