@@ -1,26 +1,28 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int r = matrix.length;
-        int c = matrix[0].length;
+        int m = matrix.length;
+        int n = matrix[0].length;
+
+        boolean[] rows = new boolean[m];
+        boolean[] cols = new boolean[n];
         
-        boolean[] rowZero = new boolean[r];
-        boolean[] colZero = new boolean[c];
-        
-        for (int i = 0; i < r; i++) {
-            for (int j = 0; j < c; j++) {
-                if (matrix[i][j] == 0) {
-                    rowZero[i] = true;
-                    colZero[j] = true;
+
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(matrix[i][j]==0){
+                   rows[i]=true;
+                   cols[j]= true;    
                 }
             }
         }
 
-        for (int i = 0; i < r; i++) {
-            for (int j = 0; j < c; j++) {
-                if (rowZero[i] || colZero[j]) {
-                    matrix[i][j] = 0;
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(rows[i]||cols[j]!=false){
+                    matrix[i][j]=0;   
                 }
             }
         }
+
     }
 }
